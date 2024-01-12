@@ -1,4 +1,4 @@
-# vidwath_v_book
+# Scanner Application
 
 A new Flutter project.
 
